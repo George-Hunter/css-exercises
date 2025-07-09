@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 187, 198);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(53, 53, 189);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(63, 214, 63);
+    font-size: 24px;
+    font-weight: bold;
+}
